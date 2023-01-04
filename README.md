@@ -12,4 +12,4 @@ Install helios-language-server on your system globally using Pip:
 
 `pip install helios-language-server`
 
-Then install the extension from <a href="">VSCode marketplace</a>
+Then install the extension from <a href="https://marketplace.visualstudio.com/items?itemName=et9797.vscode-helios">VSCode marketplace</a>
