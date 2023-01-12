@@ -4,7 +4,7 @@ VSCode extension for <a href="https://github.com/et9797/helios-language-server">
 
 ## Requirements
 
-* `Python 3.10`
+* `Python >=3.7`
 
 ## Installation
 
